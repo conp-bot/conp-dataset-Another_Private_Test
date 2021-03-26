@@ -1,0 +1,79 @@
+{
+    "title": "Another Private Test",
+    "creators": [
+        {
+            "name": "Joey Zhou"
+        },
+        {
+            "name": "CONP-BOT"
+        },
+        {
+            "name": "Joey Zhou 2"
+        }
+    ],
+    "description": "",
+    "version": "2021-03-25T19:14:22.408063",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "dates": [
+        {
+            "date": "2021-03-25 13:21:05",
+            "type": {
+                "value": "Date Created"
+            }
+        },
+        {
+            "date": "2021-03-25 19:14:22",
+            "type": {
+                "value": "Date Modified"
+            }
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 245.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": "https://osf.io/kp8uq/",
+                "authorizations": [
+                    {
+                        "value": "private"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "4"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
