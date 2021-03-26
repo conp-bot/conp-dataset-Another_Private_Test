@@ -4,3 +4,4 @@
 DATS.json annex.largefiles=nothing
 README.md annex.largefiles=nothing
 .conp-osf-crawler.json annex.largefiles=nothing
+**/OSF.cfg annex.largefiles=nothing
